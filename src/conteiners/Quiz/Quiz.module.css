@@ -1,0 +1,12 @@
+.Quiz {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: purple;
+    flex-grow: 1;
+    padding: 20px 0;
+}
+
+.Quiz h1 {
+    color:white;
+}

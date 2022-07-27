@@ -1,0 +1,30 @@
+.QuizList {
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    flex-grow: 1;
+}
+
+.QuizList ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.QuizList h1 {
+    color: #fff;
+}
+
+.QuizList li {
+    margin-bottom: 10px;
+
+}
+
+.QuizList li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+

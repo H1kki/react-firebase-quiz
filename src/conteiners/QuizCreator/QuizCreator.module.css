@@ -1,0 +1,7 @@
+.QuizCreator {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    background: orange;
+    padding-top: 60px;
+}
